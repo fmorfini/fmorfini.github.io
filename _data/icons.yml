@@ -8,7 +8,7 @@ facebook:
 flickr:
 github: fmorfini
 gitlab:
-google-scholar: "https://scholar.google.com/citations?hl=en&user=_FEmaGoAAAAJ"    # e.g. "WXAAOb0AAAAJ"
+google-scholar: "_FEmaGoAAAAJ"    # e.g. "WXAAOb0AAAAJ"
 instagram:
 hacker-news:
 keybase:
