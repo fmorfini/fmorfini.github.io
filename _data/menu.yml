@@ -1,4 +1,9 @@
 # To add links to the navigation bar.
+- CV:
+  title: "CV"
+  url: https://whitfield-gabrieli.sites.northeastern.edu/
+  position: 4
+  hide: false
 - My Lab:
   title: "My Lab"
   url: https://whitfield-gabrieli.sites.northeastern.edu/
