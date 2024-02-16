@@ -3,6 +3,7 @@ layout: page
 title: Home
 permalink: index
 position: 1
+hide: true
 #feature-img: "assets/img/pexels/travel.jpeg"
 #tags: [Page]
 ---
