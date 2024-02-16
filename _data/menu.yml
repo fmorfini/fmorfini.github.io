@@ -1,7 +1,8 @@
 # To add links to the navigation bar.
 - CV:
   title: "CV"
-  url: https://github.com/fmorfini/assets_general/blob/main/Francesca_Morfini_CV.pdf
+  # url: https://github.com/fmorfini/assets_general/blob/main/Francesca_Morfini_CV.pdf
+  url: Francesca_Morfini_CV.pdf
   position: 4
   hide: false
 - My Lab:
