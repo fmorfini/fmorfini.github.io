@@ -1,6 +1,6 @@
-# [Francesca Morfini Personal Website](https://fmorfini.github.io) 
+# Francesca Morfini Personal Website
+<img align="right" src="https://github.com/fmorfini/assets_general/blob/main/Francesca_Morfini_my_brain_gif.gif" width="250" />
 
-Theme info:
-- [type on strap](https://github.com/sylhare/Type-on-Strap/tree/master?tab=readme-ov-file) 
-- [Jekyll](https://jekyllrb.com)
-- [type-theme](https://github.com/rohanchandra/type-theme)
+Check out my personal website [https://fmorfini.github.io](https://fmorfini.github.io/).
+
+Powered by [type on strap](https://github.com/sylhare/Type-on-Strap/tree/master?tab=readme-ov-file), [Jekyll](https://jekyllrb.com), and [type-theme](https://github.com/rohanchandra/type-theme).
