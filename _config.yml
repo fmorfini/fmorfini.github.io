@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
+baseurl: ""
+url: "https://fmorfini.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Type on Strap                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+title: Francesca Morfini                                    # site's title
+description: "Francesca Morfini personal website"      # used by search engines
+avatar: assets/img/Francesca_Morfini_headshot.jpg      # Empty for no avatar in navbar
+favicon: /img/Francesca_Morfini_headshot.jpg # favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
