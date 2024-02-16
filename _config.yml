@@ -15,6 +15,10 @@ header_feature_image_responsive: true
 footer_text: >
   Francesca Morfini. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
+navbar-links:
+  CV: /img/Francesca_Morfini_CV.pdf
+  Publications: "https://scholar.google.com/citations?user=_FEmaGoAAAAJ&hl=en&oi=ao"
+
 # Blog
 excerpt: false                                           # "true", or "truncate" (first 250 characters), "false" to disable
 post_navigation: false
