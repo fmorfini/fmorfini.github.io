@@ -1,9 +1,14 @@
 # To add links to the navigation bar.
+- Publications:
+  title: "Publications"
+  url: https://scholar.google.com/citations?user=_FEmaGoAAAAJ&hl=en&oi=ao
+  position: 4
+  hide: false
 - CV:
   title: "CV"
   # url: https://github.com/fmorfini/assets_general/blob/main/Francesca_Morfini_CV.pdf
-  url: Francesca_Morfini_CV.pdf
-  position: 4
+  url: /assets/img/Francesca_Morfini_CV.pdf
+  position: 5
   hide: false
 - My Lab:
   title: "My Lab"
