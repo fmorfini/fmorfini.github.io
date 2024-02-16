@@ -12,8 +12,8 @@ favicon: assets/img/my_brain_sagittal.png             # Icon displayed in the ta
 header_text: Francesca Morfini  # Change Blog header text
 header_feature_image: assets/img/Francesca_Morfini_headshot.jpg
 header_feature_image_responsive: true
-#footer_text: >
-#  Francesca Morfini. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+footer_text: " "
+  # Francesca Morfini. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 # taken from another theme - but not working here
 #navbar-links:
