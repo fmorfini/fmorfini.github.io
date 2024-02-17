@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Home
+title: About me
 permalink: index
 position: 1
 hide: true
 #feature-img: "assets/img/pexels/travel.jpeg"
 #tags: [Page]
 ---
-
-========== my website is work in progress ===========
 
 
 #---
@@ -19,5 +17,3 @@ hide: true
 #position: 1
 ##tags: [Page]
 #---
-
-#========== my website is work in progress ===========
