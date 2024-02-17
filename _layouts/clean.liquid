@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+ {% comment %}
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
     <header id="main" style="background-image: url('{{ page.feature-img | relative_url }}')">
         <div class="title-padder">
@@ -14,7 +15,9 @@ layout: default
             {% endif %}
         </div>
     </header>
-    <section class="post-content">
+{% endcomment %}
+
+<section class="post-content">
     {% if page.bootstrap %}
         <div class="bootstrap-iso">
             {% endif %}
