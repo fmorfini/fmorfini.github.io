@@ -1,10 +1,11 @@
 --- 
 layout: page
-title : Research
+title : portolio
 permalink: /portfolio/
 subtitle: "Projects I am working on" 
 feature-img: "assets/img/pexels/computer.jpeg"
 position: 2
+hide: true
 #tags: [Page]
 ---
 
