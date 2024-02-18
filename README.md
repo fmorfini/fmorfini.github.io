@@ -4,3 +4,5 @@
 Check out my personal website [https://fmorfini.github.io](https://fmorfini.github.io/).
 
 Powered by [type on strap](https://github.com/sylhare/Type-on-Strap/tree/master?tab=readme-ov-file), [Jekyll](https://jekyllrb.com), and [type-theme](https://github.com/rohanchandra/type-theme).
+
+<!-- another example https://github.com/Terf/PennLINC.github.io/blob/master/README.md -->
