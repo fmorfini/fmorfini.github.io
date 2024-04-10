@@ -20,6 +20,17 @@
   float: left;
   width: 100%;
 
+
+
+// FM added 
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid $border-color; // optional
+
+
+ 
+
   .separator {
     user-select: none;
     opacity: 0;
