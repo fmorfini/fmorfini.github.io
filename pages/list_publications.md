@@ -1,7 +1,7 @@
 ---
 layout: clean
 title: Selected Publications
-permalink: /Publications/
+permalink: /Selected Publications/
 order: 3
 hide: True
 customjs:
