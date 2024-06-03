@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /Curriculum Vitae/
 #feature-img: "assets/img/pexels/travel.jpeg"
-position: 3
+position: 2
 hide: false
 excluded: false
 #tags: [Page]
