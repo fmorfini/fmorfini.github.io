@@ -13,5 +13,5 @@ Very good examples
 - https://jinhyuncheong.com/publications/  
 - https://sites.google.com/view/joaovduarte/home 
 - https://elizabeth-dupre.com/work/ 
-- https://github.com/Terf/PennLINC.github.io/blob/master/README.md 
+- https://github.com/PennLINC/PennLINC.github.io 
 -->
