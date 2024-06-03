@@ -1,5 +1,5 @@
 ---
-layout: clean
+layout: page
 title: Selected Publications
 permalink: /Selected Publications/
 hide: True
