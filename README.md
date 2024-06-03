@@ -5,4 +5,10 @@ Check out my personal website [https://fmorfini.github.io](https://fmorfini.gith
 
 Powered by [type on strap](https://github.com/sylhare/Type-on-Strap/tree/master?tab=readme-ov-file), [Jekyll](https://jekyllrb.com), and [type-theme](https://github.com/rohanchandra/type-theme).
 
-<!-- another example https://github.com/Terf/PennLINC.github.io/blob/master/README.md -->
+<!-- 
+Very good examples
+- https://jinhyuncheong.com/publications/  
+- https://sites.google.com/view/joaovduarte/home 
+- https://elizabeth-dupre.com/work/ 
+- https://github.com/Terf/PennLINC.github.io/blob/master/README.md 
+-->
