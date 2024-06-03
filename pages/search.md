@@ -7,5 +7,7 @@ permalink: /search/
 feature-img: "assets/img/skyline_boston_milan.png"
 icon: "fa-search"
 excluded: true
+hide: true
 position: 5
 ---
+#for some reason searching isn't working
