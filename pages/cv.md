@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /Curriculum Vitae/
+permalink: /CV/
 #feature-img: "assets/img/pexels/travel.jpeg"
 position: 2
 hide: true
