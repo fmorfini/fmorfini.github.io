@@ -1,9 +1,9 @@
 ---
 layout: clean
-title: Publications
+title: Selected Publications
 permalink: /Publications/
 order: 3
-hide: False
+hide: True
 customjs:
  - https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js
 ---
