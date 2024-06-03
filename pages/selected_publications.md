@@ -2,7 +2,7 @@
 layout: clean
 title: Selected Publications
 permalink: /Selected Publications/
-order: 3
+order: 10
 hide: True
 customjs:
  - https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js
