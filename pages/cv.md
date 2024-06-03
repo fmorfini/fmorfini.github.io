@@ -4,7 +4,6 @@ title: CV
 permalink: /CV/
 #feature-img: "assets/img/pexels/travel.jpeg"
 position: 2
-excluded: true
 #tags: [Page]
 ---
 
