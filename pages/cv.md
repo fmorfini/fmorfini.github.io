@@ -5,6 +5,7 @@ permalink: /Curriculum Vitae/
 #feature-img: "assets/img/pexels/travel.jpeg"
 position: 3
 hide: false
+excluded: false
 #tags: [Page]
 ---
 
