@@ -3,6 +3,7 @@ layout: clean
 title: Selected Publications
 permalink: /Selected Publications/
 hide: True
+excluded: True
 customjs:
  - https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js
 ---
