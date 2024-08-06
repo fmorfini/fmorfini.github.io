@@ -2,8 +2,11 @@
 layout: page
 title: Contacts
 permalink: /contacts/
-feature-img: "assets/img/pexels/travel.jpeg"
+#feature-img: "assets/img/pexels/travel.jpeg"
 position: 4
 ---
 
 email [f.morfini.work@gmail.com](f.morfini.work@gmail.com)
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2540.9067127937933!2d-71.0892349875749!3d42.33740345494181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37a22bfa1d9d7%3A0xbab99b179dfdea31!2sNortheastern%20University%20Interdisciplinary%20Science%20and%20Engineering%20Complex!5e0!3m2!1sen!2sit!4v1722950787257!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
