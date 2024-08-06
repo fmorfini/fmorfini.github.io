@@ -10,7 +10,6 @@ position: 4
 <font size="15"> <b>Contacts </b> </font>
 
 <br>
-<br>
   
 Email: `f.morfini.work@gmail.com`  
 <br>
@@ -27,8 +26,7 @@ https://whitfield-gabrieli.sites.northeastern.edu
  -->
 
 <br>
-<br>
-    
+
   
 **Juliet Davidow's Lab at Northeastern**  
 Nightingale Hall  
