@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
+position: 1
 #tags: [Page]
 ---
 

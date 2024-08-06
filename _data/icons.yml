@@ -1,19 +1,22 @@
 # For the Icons on the footer of the website
 # For the Share buttons at the end of the articles, use the "social.yml"
+mail: f.morfini.work@gmail.com             # e.g. "sam@mail.com"
+github: fmorfini
+google-scholar: https://scholar.google.com/citations?hl=en&user=_FEmaGoAAAAJ&view_op=list_works&sortby=pubdate   # e.g. "WXAAOb0AAAAJ"
+twitter: f_morfini
+linkedin: francesca-morfini
+
+
 behance:
 bitbucket:
 calendly:
 dribbble:
 facebook:
 flickr:
-github: fmorfini
 gitlab:
-google-scholar: https://scholar.google.com/citations?hl=en&user=_FEmaGoAAAAJ&view_op=list_works&sortby=pubdate   # e.g. "WXAAOb0AAAAJ"
 instagram:
 hacker-news:
 keybase:
-linkedin: francesca-morfini
-mail: f.morfini.work@gmail.com             # e.g. "sam@mail.com"
 map:              # e.g. "34.0886/-118.3191"
 mastodon:         # e.g. "fostodon.org/@sam"
 matrix:           # e.g. "@sam:matrix.org"
@@ -30,7 +33,6 @@ steam:
 telegram:
 tumblr:
 twitch:
-twitter: f_morfini
 vimeo:
 vk:
 wordpress:
