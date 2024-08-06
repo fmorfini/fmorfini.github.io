@@ -12,7 +12,8 @@ favicon: assets/img/my_brain_sagittal.png              # Icon displayed in the t
 header_text: Francesca Morfini  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg #xxx
 header_feature_image_responsive: true                   #xxx
-footer_text: "" #Francesca Morfini. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+footer_text: "" 
+#Francesca Morfini. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 # # Blog
 # excerpt: false                                           # Or "truncate" (first 250 characters), "false" to disable
