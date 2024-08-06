@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Contacts
+hide_title: true
+color: turquoise
 permalink: /contacts/
 feature-img: "assets/img/pexels/world_map_cropped.png"
 position: 4
 ---
 
-Email: f.morfini.work@gmail.com
+Email: `f.morfini.work@gmail.com`
 
 
 **Susan Whitfield-Gabrieli's Lab at Northeastern**
