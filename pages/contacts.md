@@ -11,12 +11,12 @@ position: 4
 Email: `f.morfini.work@gmail.com`
 
 
-**Susan Whitfield-Gabrieli's Lab at Northeastern**
-Center for Cognitive and Brain Health
-Interdisciplinary Science and Engineering Complex (ISEC)
-office #660-104
-805 Columbus Avenue, Boston, MA 02115, USA
-https://whitfield-gabrieli.sites.northeastern.edu
+**Susan Whitfield-Gabrieli's Lab at Northeastern**  
+Center for Cognitive and Brain Health  
+Interdisciplinary Science and Engineering Complex (ISEC)  
+office #660-104  
+805 Columbus Avenue, Boston, MA 02115, USA  
+https://whitfield-gabrieli.sites.northeastern.edu  
 
 **Juliet Davidow's Lab at Northeastern**
 Nightingale Hall
