@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-#tags: [Page]
 ---
 
 Hi, I am Francesca Morfini. I am a PhD Candidate in Psychology at Northeastern University, working with [Susan Whitfield-Gabrieli](https://whitfield-gabrieli.sites.northeastern.edu) and [Juliet Davidow](https://lbdlpsych.sites.northeastern.edu/).

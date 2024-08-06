@@ -2,10 +2,8 @@
 layout: page
 title: CV
 permalink: /CV/
+position: 1
 #feature-img: "assets/img/pexels/travel.jpeg"
-excluded: false
-hide: false
-#tags: [Page]
 ---
 
 <div id="anim">
