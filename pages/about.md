@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
-position: 1
 #tags: [Page]
 ---
 
