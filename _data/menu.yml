@@ -1,0 +1,10 @@
+# To add links to the navigation bar.
+- publications:
+  title: "Publications"
+  url: https://scholar.google.com/citations?hl=en&user=_FEmaGoAAAAJ&view_op=list_works&sortby=pubdate
+  position: 1
+# - example:
+#   title: Example
+#   url: https://example.com
+#   hide: true
+#   position: 2
