@@ -8,16 +8,13 @@ position: 4
 ---
 
 <font size="15"> <b>Contacts </b> </font>
-  
+
+<br>
+<br>
   
 Email: `f.morfini.work@gmail.com`  
 <br>
 <br>
-<br>
-<br>
-<br>
-
-
 **Susan Whitfield-Gabrieli's Lab at Northeastern**  
 Center for Cognitive and Brain Health  
 Interdisciplinary Science and Engineering Complex (ISEC)  
@@ -28,7 +25,10 @@ https://whitfield-gabrieli.sites.northeastern.edu
 <!-- 
 **Susan Whitfield-Gabrieli's Lab at MGH*
  -->
-  
+
+<br>
+<br>
+    
   
 **Juliet Davidow's Lab at Northeastern**  
 Nightingale Hall  
