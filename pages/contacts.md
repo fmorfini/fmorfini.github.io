@@ -7,12 +7,16 @@ feature-img: "assets/img/pexels/world_map_cropped.png"
 position: 4
 ---
 
-<font size="20"> <b>Contacts </b> </font>
+<font size="15"> <b>Contacts </b> </font>
   
   
 Email: `f.morfini.work@gmail.com`  
-  
-  
+<p><\p>
+<p><\p>
+<p><\p>
+<p><\p>
+<p><\p>
+<p><\p>
 **Susan Whitfield-Gabrieli's Lab at Northeastern**  
 Center for Cognitive and Brain Health  
 Interdisciplinary Science and Engineering Complex (ISEC)  
@@ -23,7 +27,8 @@ https://whitfield-gabrieli.sites.northeastern.edu
 <!-- 
 **Susan Whitfield-Gabrieli's Lab at MGH*
  -->
-
+  
+  
 **Juliet Davidow's Lab at Northeastern**  
 Nightingale Hall  
 Department of Psychology  
