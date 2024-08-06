@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 permalink: /CV/
 #feature-img: "assets/img/pexels/travel.jpeg"
 excluded: false
