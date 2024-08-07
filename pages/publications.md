@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /Publications/
+hide_title_: true
 hide: false
 excluded: false
 ---
@@ -12,9 +13,7 @@ excluded: false
 	  text-decoration-line: underline;
 	  font-weight: bold  
 	  }  
-</style>
 
-<!-- 
   li {
 	  list-style-position:inside;
 	  text-align:left;
@@ -26,14 +25,11 @@ excluded: false
 	  vertical-align: inherit;
 	  border-color: inherit;
 	};
+</style>
 
-  li {
-	  list-style-position:inside;
-	  border: 1px solid black;
-	  width: 100px;
-	}
- -->
 
+**Publications** 
+(reversed chronological order):
 
 <ol reversed>
   <li><fm>Morfini, F.</fm>, Bauer, C.C.C., Zhang, J., Whitfield-Gabrieli, S., Shinn§, A.K., Niznikiewicz§, M.A., (2024). Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia. Schizophrenia Research, 270, 358-365. [https://doi.org/10.1016/j.schres.2024.06.036](https://doi.org/10.1016/j.schres.2024.06.036)</li>
