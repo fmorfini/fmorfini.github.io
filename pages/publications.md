@@ -10,6 +10,7 @@ customjs:
 ---
 <!-- https://badge-docs.altmetric.com/badge-playground.html#examples-gallery -->
 
+ciao
 
 <style>
 fm {color: #E34234;
@@ -37,7 +38,7 @@ t2 {width:15%;
 	</t1></th>
 	
 	<th style="width:15%;margin: 20px 20px 20px 20px">
-	<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.schres.2024.06.036" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" ></div>
+	<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.schres.2024.06.036" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="0" ></div>
 	</th></tr>
 	
 
