@@ -10,7 +10,7 @@ customjs:
 ---
 <!-- https://badge-docs.altmetric.com/badge-playground.html#examples-gallery -->
 
-ciao
+
 <style>
 fm {color: #E34234;
 	text-decoration-line: underline;
@@ -35,9 +35,14 @@ t2 {width:15%;
 	<tr><th><t1>
 	<fm>Morfini, F.</fm>, Bauer, C.C.C., Zhang, J., Whitfield-Gabrieli, S., Shinn§, A.K., Niznikiewicz§, M.A., (2024). Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia. Schizophrenia Research, 270, 358-365. [https://doi.org/10.1016/j.schres.2024.06.036](https://doi.org/10.1016/j.schres.2024.06.036)
 	</t1></th>
-	<th><t2>
-	<div data-badge-type="donut" data-doi="10.1016/j.schres.2024.06.036" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" class="altmetric-embed"></div>
-	</t2></th></tr>
+	
+	<th style="width:15%;margin: 20px 20px 20px 20px">
+	<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.schres.2024.06.036" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="10" ></div>
+	</th></tr>
+	
+
+	
+	
 	
 	<tr><th><t1>
 	<fm>Morfini, F.</fm>, Whitfield-Gabrieli, S., & Nieto-Castañón, A. (2023). Functional connectivity MRI quality control procedures in CONN. Frontiers in Neuroscience, 17, 1092125 [[Link]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1092125/full)
