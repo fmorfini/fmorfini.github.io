@@ -3,12 +3,10 @@ layout: page
 title: Publications
 permalink: /Publications/
 hide_title: true
-customjs:
- - https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js
 ---
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
----
+
 <!-- https://badge-docs.altmetric.com/badge-playground.html#examples-gallery -->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
 <style>
@@ -20,15 +18,7 @@ li {list-style-position: inside;
 	text-align: left;
 	font-weight: normal;
 	}
-<!-- 
-
-t1 {text-align:left;
-	font-weight:normal;
-	} 
- 	
- -->
 </style>
-
 
 
 <!-- 
@@ -42,10 +32,9 @@ sample code to add one publication
  -->
 	
 
-
-<font size="10"> <b>Publications</b></font> (reversed chronological order):<br>
+**Publications** (reversed chronological order):<br>
 <sup>†</sup> co-first author; <sup><sup>§</sup></sup> co-last author<br> 
-
+---
 
 <div id="anim">
 	<table cellpadding="10">
@@ -132,8 +121,6 @@ sample code to add one publication
 		<td>	<div data-pmid="29052616" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
 	
-	
-
 	</table>
 </div>
 
