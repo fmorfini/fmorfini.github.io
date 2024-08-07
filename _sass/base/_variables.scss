@@ -39,14 +39,14 @@ html, html[data-theme="light"] {
   --header-link: #383838;
   --code-background: #E0E0E0;
   --code-inline: #24292e;
-  --text-shadow: #3f3f3f;
-  --text: #262626;
-  --h1: #262626;
-  --h2: #262626;
-  --h3: #262626;
-  --h4: #262626;
-  --h5: #262626;
-  --h6: #262626;
+  --text-shadow: #E34234;
+  --text: #E34234;
+  --h1: #E34234;
+  --h2: #E34234;
+  --h3: #E34234;
+  --h4: #E34234;
+  --h5: #E34234;
+  --h6: #E34234;
   --border: rgba(0, 0, 0, 0.2);
 }
 
@@ -60,15 +60,15 @@ html[data-theme="dark"] {
   --header-text: #e7f3f4; // header text, feature img text
   --header-link: #adbac7; // header link, search color
   --code-background: #2A3444;
-  --code-inline: #d9b600;
+  --code-inline: #E34234;
   --text-shadow: #2d333b; // text shadow
-  --text: #cdd9e5; // text
-  --h1: #d40059; // headers
-  --h2: #b37eff;
-  --h3: #ff66c2;
-  --h4: #00af9e;
-  --h5: #6bac00;
-  --h6: #ff5c00;
+  --text: #E34234; // text
+  --h1: #E34234; // headers
+  --h2: #E34234;
+  --h3: #E34234;
+  --h4: #E34234;
+  --h5: #E34234;
+  --h6: #E34234;
   --border: rgba(255, 255, 255, 0.5); // border
   --cusdis--color-text-default: var(--text);
   --cusdis--color-comment-username-text: var(--link);
