@@ -13,4 +13,4 @@ As part of my research, I also study factors that influence the results of MRI s
 
 My **background** is in clinical psychology and neuroimaging, with bachelor's and master's degrees in clinical psychology and neuroscience from San Raffaele University (Milan, Italy). I am also a licensed clinical psychologist in Italy.
 
-I am originally from Milan (Italy) and I am a USA resident.
+I am originally from Milan (Italy) and I am a US resident.
