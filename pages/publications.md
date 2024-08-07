@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /Publications/
-hide: true
+hide: false
 excluded: false
 ---
 
