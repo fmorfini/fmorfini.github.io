@@ -4,7 +4,8 @@
   url: https://example.com
   hide: true
   position: 4
-- publications:
-  title: "Publications"
+- scholar:
+  title: "Scholar"
   url: https://scholar.google.com/citations?hl=en&user=_FEmaGoAAAAJ&view_op=list_works&sortby=pubdate
   position: 1
+  hide: true
