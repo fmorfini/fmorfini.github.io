@@ -18,6 +18,9 @@ li {list-style-position: inside;
 	text-align: left;
 	font-weight: normal;
 	}
+	
+td {
+}	
 </style>
 
 
@@ -31,13 +34,13 @@ sample code to add one publication
 	
  -->
 
-<p><font size="10"><b> Publications </b></font> (reversed chronological order):<br>
+<p><font size="8"><b> Publications </b></font> (reversed chronological order):<br>
 <sup>†</sup> co-first author; <sup><sup>§</sup></sup> co-last author<br></p>
 
 ---
 
 <div id="anim">
-	<table cellpadding="10" border-style=hidden>
+	<table cellpadding="20" border="0px solid black">
 	<p></p>
 
 		<tr>	
