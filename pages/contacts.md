@@ -8,7 +8,7 @@ position: 4
 ---
 <style>
 	code {
-	  color: E34234;
+	  color: #E34234;
 	  background-color: #f1f1f1;
 	  padding: 2px;
 	}
