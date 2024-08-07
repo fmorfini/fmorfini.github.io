@@ -6,6 +6,14 @@ permalink: /contacts/
 feature-img: "assets/img/pexels/world_map_cropped.png"
 position: 4
 ---
+<style>
+	code {
+	  color: E34234;
+	  background-color: #f1f1f1;
+	  padding: 2px;
+	}
+</style>
+
 
 <font size="15"> <b>Contacts </b> </font><br>
 <br>
