@@ -30,7 +30,6 @@ sample code to add one publication
 		</tr>
 	
  -->
-	
 
 <p><font size="10"><b> Publications </b></font> (reversed chronological order):<br>
 <sup>†</sup> co-first author; <sup><sup>§</sup></sup> co-last author<br></p>
@@ -38,7 +37,7 @@ sample code to add one publication
 ---
 
 <div id="anim">
-	<table cellpadding="10">
+	<table cellpadding="10" border-style=hidden>
 	<p></p>
 
 		<tr>	
