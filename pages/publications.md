@@ -32,8 +32,8 @@ sample code to add one publication
  -->
 	
 
-**Publications** (reversed chronological order):<br>
-<sup>†</sup> co-first author; <sup><sup>§</sup></sup> co-last author<br> 
+<p><font size="10"><b> Publications </b></font> (reversed chronological order):<br>
+<sup>†</sup> co-first author; <sup><sup>§</sup></sup> co-last author<br></p>
 
 ---
 
