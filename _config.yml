@@ -13,7 +13,7 @@ header_text: Francesca Morfini  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg #xxx
 header_feature_image_responsive: true                   #xxx
 footer_text: >
-  f.morfini.work@gmail.com
+ f.morfini.work@gmail.com
 # Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 # # Blog
