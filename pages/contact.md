@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contacts
+title: Contact
 hide_title: true
-permalink: /contacts/
+permalink: /contact/
 feature-img: "assets/img/pexels/world_map_cropped.png"
 position: 4
 ---
@@ -15,9 +15,9 @@ position: 4
 </style>
 
 
-<font size="15"> <b>Contacts </b> </font><br>
+<font size="15"> <b>Contacts </b> </font>
 <br>
-Email: <code>f.morfini.work@gmail.com</code><br>
+Email: <code>f.morfini.work@gmail.com</code>
 <br><br>
 
 <div>
