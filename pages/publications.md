@@ -40,18 +40,19 @@ sample code to add one publication
 ---
 
 <div id="anim">
-	<table cellpadding="20" border="0px solid black">
+<ol reversed>
+	<table cellpadding="0" border="0px solid white">
 	<p></p>
 
 		<tr>	
-		<td>	[13] <fm>Morfini, F.</fm>, Bauer, C.C.C., Zhang, J., Whitfield-Gabrieli, S., Shinn<sup>§</sup>, A.K., Niznikiewicz<sup>§</sup>, M.A., (2024). Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia. Schizophrenia Research, 270, 358-365.
+		<td>	<li>[13] <fm>Morfini, F.</fm>, Bauer, C.C.C., Zhang, J., Whitfield-Gabrieli, S., Shinn<sup>§</sup>, A.K., Niznikiewicz<sup>§</sup>, M.A., (2024). Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia. Schizophrenia Research, 270, 358-365. </li>
 		<a href="https://doi.org/10.1016/j.schres.2024.06.036">https://doi.org/10.1016/j.schres.2024.06.036</a>		</td>
 		<td>	<div data-pmid="38968807" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>		
 
 		
 		<tr>
-		<td>	[12] Zhang, J.<sup>†</sup>, Bloom, P. A.<sup>†</sup>, Pagliaccio, D., Bauer, C.C.C., Greene, K.D., <fm>Morfini, F.</fm>, Treves, I., Durham, K., Cherner, R., Bajwa, Z., Wool, E., Kyler, M., Kim, N., Simpson, B.H., Auerbach, R.P. <sup>§</sup>, Whitfield-Gabrieli, S. <sup>§</sup> (2024). Mindfulness-based real-time fMRI neurofeedback for depressed adolescents: a randomized controlled dosing trial.
+		<td>	<li>[12] Zhang, J.<sup>†</sup>, Bloom, P. A.<sup>†</sup>, Pagliaccio, D., Bauer, C.C.C., Greene, K.D., <fm>Morfini, F.</fm>, Treves, I., Durham, K., Cherner, R., Bajwa, Z., Wool, E., Kyler, M., Kim, N., Simpson, B.H., Auerbach, R.P. <sup>§</sup>, Whitfield-Gabrieli, S. <sup>§</sup> (2024). Mindfulness-based real-time fMRI neurofeedback for depressed adolescents: a randomized controlled dosing trial. </li>
 		<a href="https://doi.org/10.31234/osf.io/sj236">https://doi.org/10.31234/osf.io/sj236</a>		</td>
 		<td>	<div data-doi="https://doi.org/10.31234/osf.io/sj236" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
@@ -125,6 +126,8 @@ sample code to add one publication
 		</tr>
 	
 	</table>
+
+</ol>
 </div>
 
 
