@@ -21,8 +21,7 @@ font-weight: normal;
 }
 	
 td {border: none;
-width:15%;
-margin: 20px 20px 20px 20px"
+font-size:80%
 }
 
 ol {counter-reset: item;}
@@ -40,7 +39,7 @@ ol > li:before {content: "[" counter(item) "] ";
 
 <div id="anim">
 <ol reversed>
-	<table>
+	<table cellpadding="10">
 	<p></p>
 
 <!-- 
