@@ -19,11 +19,12 @@ li {list-style-position: inside;
 	font-weight: normal;
 	}
 	
-td {border=none}
+td {border: none}
 
-ol.brakets>li::marker {
-	content: "[" counter(list-item) "] ";
-}
+ol {  counter-reset: item;}
+ol > li {list-style: none;}
+ol > li:before {  content: "[" counter(item) "] ";
+  counter-increment: item;}
 
 	
 </style>
@@ -50,18 +51,16 @@ sample code to add one publication
 	<p></p>
 
 		<tr>	
-		<td>	[<li>] <fm>Morfini, F.</fm>, Bauer, C.C.C., Zhang, J., Whitfield-Gabrieli, S., Shinn<sup>§</sup>, A.K., Niznikiewicz<sup>§</sup>, M.A., (2024). Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia. Schizophrenia Research, 270, 358-365. </li>
+		<td>	<li> <fm>Morfini, F.</fm>, Bauer, C.C.C., Zhang, J., Whitfield-Gabrieli, S., Shinn<sup>§</sup>, A.K., Niznikiewicz<sup>§</sup>, M.A., (2024). Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia. Schizophrenia Research, 270, 358-365. </li>
 		<a href="https://doi.org/10.1016/j.schres.2024.06.036">https://doi.org/10.1016/j.schres.2024.06.036</a>		</td>
 		<td>	<div data-pmid="38968807" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>		
 
-		
 		<tr>
 		<td>	<li> Zhang, J.<sup>†</sup>, Bloom, P. A.<sup>†</sup>, Pagliaccio, D., Bauer, C.C.C., Greene, K.D., <fm>Morfini, F.</fm>, Treves, I., Durham, K., Cherner, R., Bajwa, Z., Wool, E., Kyler, M., Kim, N., Simpson, B.H., Auerbach, R.P. <sup>§</sup>, Whitfield-Gabrieli, S. <sup>§</sup> (2024). Mindfulness-based real-time fMRI neurofeedback for depressed adolescents: a randomized controlled dosing trial. </li>
 		<a href="https://doi.org/10.31234/osf.io/sj236">https://doi.org/10.31234/osf.io/sj236</a>		</td>
 		<td>	<div data-doi="https://doi.org/10.31234/osf.io/sj236" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
-
 		
 		<tr>
 		<td>	<li> Cline, T. L., <fm>Morfini, F.</fm>, Tinney, E. M., Makarewycz, E., Lloyd, K., Olafsson, V., Bauer, C.C.C., Kramer, A.F., Raine, L.B., Gabbard-Durnam, L. J., Whitfield-Gabrieli, S., Hillman, C. H. (2024). Resting-state functional connectivity change in frontoparietal and default mode networks after acute exercise in youth. Brain Plasticity.  </li>
@@ -69,7 +68,6 @@ sample code to add one publication
 		<td>	<div data-pmid="39081665" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
 	
-
 		<tr>
 		<td>	<li> Bloom, P. A., Pagliaccio, D., Zhang, J., Bauer, C.C.C., Kyler, M., Greene, K. D., Treves, I., <fm>Morfini, F.</fm>, Durham, K., Cherner, R., Bajwa, Z., Wool, E., Olfsson, V., Lee, R. F., Bidmead, F., Cardona, J., Kirshenbaum, J. S., Ghosh, S., Hinds, O., Wighton, P., Galfalvy, H., Simpson, H. B., Whitfield-Gabrieli, S., & Auerbach, R. P. (2023). Mindfulness-based real-time fMRI neurofeedback: a randomized controlled trial to optimize dosing for depressed adolescents. BMC Psychiatry.  </li>
 		<a href="https://doi.org/10.1186/s12888-023-05223-8">https://doi.org/10.1186/s12888-023-05223-8</a>		</td>
