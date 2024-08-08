@@ -26,7 +26,6 @@ layout: default
     <!-- Tag list for portfolio -->
     {% capture tag_list %}{{ page.tags | join: "|" }}{% endcapture %}
     {% capture _tags %}{% include default/tags_list.liquid tags=tag_list %}{% endcapture %}
-	{% capture _footer %}{% include default/footer.liquid %}{% endcapture %} <!-- FM added to fix email issue-->
     {{ _tags | split: " " | join: " " }}
 
 
