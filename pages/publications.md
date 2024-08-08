@@ -19,8 +19,13 @@ li {list-style-position: inside;
 	font-weight: normal;
 	}
 	
-td {
-}	
+td {border=none}
+
+ol.brakets>li::marker {
+	content: "[" counter(list-item) "] ";
+}
+
+	
 </style>
 
 
@@ -40,8 +45,8 @@ sample code to add one publication
 ---
 
 <div id="anim">
-<ol reversed>
-	<table border="0" border-style="none">
+<ol reversed class="brakets">
+	<table>
 	<p></p>
 
 		<tr>	
