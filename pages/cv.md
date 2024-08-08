@@ -4,6 +4,7 @@ title: CV
 permalink: /CV/
 position: 1
 #feature-img: "assets/img/pexels/travel.jpeg"
+position: 4
 ---
 
 <div id="anim">

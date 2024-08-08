@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /Publications/
 hide_title: true
+position: 3
 ---
 
 <!-- https://badge-docs.altmetric.com/badge-playground.html#examples-gallery -->

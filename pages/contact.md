@@ -4,7 +4,7 @@ title: Contact
 hide_title: true
 permalink: /contact/
 feature-img: "assets/img/pexels/world_map_cropped.png"
-position: 4
+position: 5
 ---
 <style>
 	code {
