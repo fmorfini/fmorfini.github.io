@@ -17,8 +17,8 @@ font-weight: bold
 }  
 
 li {list-style-position: inside;
-padding-left: 40px;
-text-align: left;
+<!-- padding-left: 40px; -->
+<!-- text-align: left; -->
 font-weight: normal;
 }
 	
