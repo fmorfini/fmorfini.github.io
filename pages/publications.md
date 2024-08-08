@@ -11,25 +11,34 @@ position: 3
 
 
 <style>
-fm {color: #E34234;
-text-decoration-line: underline;
-font-weight: bold  
+fm {
+    color: #E34234;
+    text-decoration-line: underline;
+	font-weight: bold  
 }  
 
-li {list-style-position: inside;
-<!-- padding-left: 40px; -->
-<!-- text-align: left; -->
-font-weight: normal;
+li {
+	list-style-position: inside;
+	font-weight: normal;
+	padding-bottom: 10px;
+	<!-- 
+	text-align: left;
+	 -->
 }
 	
-td {border: none;
-font-size:80%
+td {
+	border: none;
+	font-size:80%
 }
 
 ol {counter-reset: item;}
-ol > li {list-style: none;}
-ol > li:before {content: "[" counter(item) "] ";
-  counter-increment: item;}
+
+ol > li {list-style: none}
+
+ol > li:before {
+	content: "[" counter(item) "] ";
+	counter-increment: item;
+}
 
 </style>
 
@@ -41,7 +50,7 @@ ol > li:before {content: "[" counter(item) "] ";
 
 <div id="anim">
 <ol reversed>
-	<table cellpadding="10">
+	<table> <!-- cellpadding="10" -->
 	<p></p>
 
 <!-- 
