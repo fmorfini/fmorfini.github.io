@@ -17,27 +17,11 @@ fm {
 	font-weight: bold  
 }  
 
-li {
-	list-style-position: inside;
-	font-weight: normal;
-	padding-bottom: 10px;
-	<!-- 
-	text-align: left;
-	 -->
-}
-	
+
 td {
 	border: none;
-	font-size:80%
-}
-
-ol {counter-reset: item;}
-
-ol > li {list-style: none}
-
-ol > li:before {
-	content: "[" counter(item) "] ";
-	counter-increment: item;
+	font-size:80%;
+    padding-bottom: 10px;
 }
 
 </style>
@@ -49,7 +33,7 @@ ol > li:before {
 ---
 
 <div id="anim">
-<ol reversed>
+<ol reversed start="13">
 	<table> <!-- cellpadding="10" -->
 	<p></p>
 
