@@ -102,7 +102,7 @@ sample code to add one publication
 		</tr>
 	
 		<tr>
-		<td>	<li> Reggente, N., Moody, T.D., <fm>Morfini, F.</fm>, Sheen, C., Rissman, J., O’Neill, J. and Feusner, J.D. (2018). Multivariate resting-state functional connectivity predicts response to cognitive behavioral therapy in obsessive–compulsive disorder. Proceedings of the National Academy of Sciences, [online] 115(9), pp.2222–2227.
+		<td>	<li> Reggente, N., Moody, T.D., <fm>Morfini, F.</fm>, Sheen, C., Rissman, J., O’Neill, J. and Feusner, J.D. (2018). Multivariate resting-state functional connectivity predicts response to cognitive behavioral therapy in obsessive–compulsive disorder. Proceedings of the National Academy of Sciences, 115(9), pp.2222–2227.
 		<a href="https://doi.org/10.1073/pnas.1716686115">https://doi.org/10.1073/pnas.1716686115</a>	</li>	</td>
 		<td>	<div data-pmid="29440404" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
@@ -114,7 +114,7 @@ sample code to add one publication
 		</tr>
 	
 		<tr>
-		<td>	<li> Moody, T.D., <fm>Morfini, F.</fm>, Cheng, G., Sheen, C., Tadayonnejad, R., Reggente, N., O’Neill, J. and Feusner, J.D. (2017). Mechanisms of cognitive-behavioral therapy for obsessive-compulsive disorder involve robust and extensive increases in brain network connectivity. Translational Psychiatry, [online] 7(9), p.e1230.
+		<td>	<li> Moody, T.D., <fm>Morfini, F.</fm>, Cheng, G., Sheen, C., Tadayonnejad, R., Reggente, N., O’Neill, J. and Feusner, J.D. (2017). Mechanisms of cognitive-behavioral therapy for obsessive-compulsive disorder involve robust and extensive increases in brain network connectivity. Translational Psychiatry, 7(9), p.e1230.
 		<a href="https://doi.org/10.1038/tp.2017.192">https://doi.org/10.1038/tp.2017.192</a>	</li>	</td>
 		<td>	<div data-pmid="28872637" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
