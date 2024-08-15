@@ -1,13 +1,15 @@
 # For the Icons on the footer of the website
 # For the Share buttons at the end of the articles, use the "social.yml"
 
+x: f_morfini
 github: fmorfini
+x-twitter: f_morfini
 google-scholar: https://scholar.google.com/citations?hl=en&user=_FEmaGoAAAAJ&view_op=list_works&sortby=pubdate   # e.g. "WXAAOb0AAAAJ"
 twitter: f_morfini
 linkedin: francesca-morfini
 
-mail:            # currently not working on Google Chrome e.g. "sam@mail.com"
 
+mail:            # currently not working on Google Chrome e.g. "sam@mail.com"
 
 behance:
 bitbucket:
