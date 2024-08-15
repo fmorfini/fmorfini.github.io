@@ -78,5 +78,7 @@ vk:
 wordpress:
   pre: "https://"
   pos: ".wordpress.com/"
+x-twitter:
+  pre: "https://x.com/"
 youtube:
   pre: "https://www.youtube.com/channel/"
