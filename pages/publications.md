@@ -38,12 +38,21 @@ td {
 	<p></p>
 
 <!-- 
-sample code to add one publication
+sample code to add one publication altmetric
 		<tr>
 		<td>	<li> <fm><fm>Morfini, F.</fm></fm>, xxxx_authors_and_paper_citationxxxxxxx
 		<a href="xxxdoixxxx">xxxxdoixxx</a>  </li>		</td>
 		<td>	<div data-pmid='xxxxx' class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
+	
+	
+sample code to add one publication citations badge
+		<tr>
+		<td>	<li> <fm><fm>Morfini, F.</fm></fm>, xxxx_authors_and_paper_citationxxxxxxx
+		<a href="xxxdoixxxx">xxxxdoixxx</a>  </li>		</td>
+		<td>	<span class="__dimensions_badge_embed__" data-doi="xxxdoixxxx" data-hide-zero-citations="true" data-legend="hover-right" ></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
+		</tr>
+	
 	
  -->
 
@@ -51,10 +60,15 @@ sample code to add one publication
 		<tr>
 		<td>	<li> <fm>Morfini, F.</fm>, Whitfield-Gabrieli, S. and Nieto-Castañón, A. (2023) Functional connectivity MRI quality control procedures in CONN. Frontiers in Neuroscience. 17:1092125.
 		<a href="https://doi.org/10.3389/fnins.2023.1092125">https://doi.org/10.3389/fnins.2023.1092125</a>	</li>	</td>
-		<td>	<span class="__dimensions_badge_embed__" data-doi="10.3389/fnins.2023.1092125" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
+		<td>	<span class="__dimensions_badge_embed__" data-doi="10.3389/fnins.2023.1092125" data-hide-zero-citations="true" data-legend="hover-right" ></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
 		</tr>
 
 
+		<tr>
+		<td>	<li> <fm>Morfini, F.</fm>, Whitfield-Gabrieli, S. and Nieto-Castañón, A. (2023) Functional connectivity MRI quality control procedures in CONN. Frontiers in Neuroscience. 17:1092125.
+		<a href="https://doi.org/10.3389/fnins.2023.1092125">https://doi.org/10.3389/fnins.2023.1092125</a>	</li>	</td>
+		<td>	<span class="__dimensions_badge_embed__" data-doi="10.3389/fnins.2023.1092125" data-hide-zero-citations="true" data-legend="hover-right" ></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
+		</tr>
 
 
 
