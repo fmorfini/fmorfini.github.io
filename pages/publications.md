@@ -27,8 +27,8 @@ td {
 </style>
 
 
-<p><font size="8"><b> Publications </b></font>:<br>
-<sup>†</sup> (reversed chronological order)<br></p>
+<p><font size="8"><b> Publications </b></font><br>
+(reversed chronological order)<br></p>
 
 ---
 
