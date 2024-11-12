@@ -27,8 +27,8 @@ td {
 </style>
 
 
-<p><font size="8"><b> Publications </b></font> (reversed chronological order):<br>
-<sup>†</sup> co-first author; <sup><sup>§</sup></sup> co-last author<br></p>
+<p><font size="8"><b> Publications </b></font>:<br>
+<sup>†</sup> (reversed chronological order)<br></p>
 
 ---
 
@@ -45,6 +45,10 @@ sample code to add one publication with citations and altmetric badges
 		<td>	<span class="__dimensions_badge_embed__" data-doi="xxxdoixxxx" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
 		<td>	<div data-pmid='xxxxx' class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
+
+some other syntax to add if necessary
+<sup>†</sup>
+<sup>†</sup> co-first author; <sup><sup>§</sup></sup> co-last author<br></p>
  -->
 
 
@@ -53,12 +57,12 @@ sample code to add one publication with citations and altmetric badges
 		<tr>	
 		<td>	<li> <fm>Morfini, F.</fm>, Bauer, C.C.C., Zhang, J., Whitfield-Gabrieli, S., Shinn<sup>§</sup>, A.K., Niznikiewicz<sup>§</sup>, M.A., (2024). Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia. Schizophrenia Research, 270, 358-365.
 		<a href="https://doi.org/10.1016/j.schres.2024.06.036">https://doi.org/10.1016/j.schres.2024.06.036</a>	</li>	</td>
-		<td>	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.schres.2024.06.036" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
-		<td>	<div data-pmid="38968807" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
+		<td>	<li> Citations </li> <span class="__dimensions_badge_embed__" data-doi="10.1016/j.schres.2024.06.036" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
+		<td>	<li> Altmetric </li> <div data-pmid="38968807" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>		
 
 		<tr>
-		<td>	<li> Zhang, J.<sup>†</sup>, Bloom, P. A.<sup>†</sup>, Pagliaccio, D., Bauer, C.C.C., Greene, K.D., <fm>Morfini, F.</fm>, Treves, I., Durham, K., Cherner, R., Bajwa, Z., Wool, E., Kyler, M., Kim, N., Simpson, B.H., Auerbach, R.P. <sup>§</sup>, Whitfield-Gabrieli, S. <sup>§</sup> (2024). Mindfulness-based real-time fMRI neurofeedback for depressed adolescents: a randomized controlled dosing trial.
+		<td>	<li> Zhang, J., Bloom, P. A., Pagliaccio, D., Bauer, C.C.C., Greene, K.D., <fm>Morfini, F.</fm>, Treves, I., Durham, K., Cherner, R., Bajwa, Z., Wool, E., Kyler, M., Kim, N., Simpson, B.H., Auerbach, R.P. <sup>§</sup>, Whitfield-Gabrieli, S. <sup>§</sup> (2024). Mindfulness-based real-time fMRI neurofeedback for depressed adolescents: a randomized controlled dosing trial.
 		<a href="https://doi.org/10.31234/osf.io/sj236">https://doi.org/10.31234/osf.io/sj236</a>	</li>	</td>
 		<td>	<span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/sj236" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
 		<td>	<div data-doi="https://doi.org/10.31234/osf.io/sj236" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
