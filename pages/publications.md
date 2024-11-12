@@ -149,6 +149,14 @@ some other syntax to add if necessary
 		<td>	<span class="__dimensions_badge_embed__" data-doi="10.1038/npp.2017.249" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
 		<td>	<div data-pmid="29052616" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
+
+
+<!-- footer leave at the beginning -->
+		<tr>	
+		<td>		</td>
+		<td>	Citations </td>
+		<td>	Altmetric </td>
+		</tr>	
 	
 	</table>
 
