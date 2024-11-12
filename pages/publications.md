@@ -47,6 +47,17 @@ sample code to add one publication
 	
  -->
 
+
+		<tr>
+		<td>	<li> <fm>Morfini, F.</fm>, Whitfield-Gabrieli, S. and Nieto-Castañón, A. (2023) Functional connectivity MRI quality control procedures in CONN. Frontiers in Neuroscience. 17:1092125.
+		<a href="https://doi.org/10.3389/fnins.2023.1092125">https://doi.org/10.3389/fnins.2023.1092125</a>	</li>	</td>
+		<td>	<div <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.3389/fnins.2023.1092125"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> > </div>	</td>
+		</tr>
+
+
+
+
+
 		<tr>	
 		<td>	<li> <fm>Morfini, F.</fm>, Bauer, C.C.C., Zhang, J., Whitfield-Gabrieli, S., Shinn<sup>§</sup>, A.K., Niznikiewicz<sup>§</sup>, M.A., (2024). Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia. Schizophrenia Research, 270, 358-365.
 		<a href="https://doi.org/10.1016/j.schres.2024.06.036">https://doi.org/10.1016/j.schres.2024.06.036</a>	</li>	</td>
