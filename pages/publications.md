@@ -33,7 +33,7 @@ td {
 ---
 
 <div id="anim">
-<ol reversed start="13">
+<ol reversed start="14">
 	<table> <!-- cellpadding="10" -->
 	<p></p>
 
@@ -59,6 +59,13 @@ some other syntax to add if necessary
 		<td>	Altmetric </td>
 		</tr>	
 
+		<tr>
+		<td>	<li> Bloom, P. A., Pagliaccio, D., Bajwa, Z., Wool, E., Zhang, J., Bauer, C.C.C., Kyler, M., Greene, K.D., Treves, I., <fm>Morfini, F.</fm>, Durham, K., Kirshenbaum, J.S., Kim, N., Galfalvy, H., Simpson, B.H., Whitfield-Gabrieli, S., Auerbach, R.P. (2025). Impact of mindfulness-based real-time fMRI neurofeedback on self-referential processing in depressed adolescents: a dosing study.
+		<a href="https://doi.org/10.1186/s12888-023-05223-8">https://doi.org/10.1186/s12888-023-05223-8</a>	</li>	</td>
+		<td>	<span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/dshcm" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
+		<td>	<div data-pmid="37848857" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
+		</tr>
+	
 		<tr>	
 		<td>	<li> <fm>Morfini, F.</fm>, Bauer, C.C.C., Zhang, J., Whitfield-Gabrieli, S., Shinn<sup>§</sup>, A.K., Niznikiewicz<sup>§</sup>, M.A., (2024). Targeting the superior temporal gyrus with real-time fMRI neurofeedback: a pilot study of the indirect effects on self-referential processes in schizophrenia. Schizophrenia Research, 270, 358-365.
 		<a href="https://doi.org/10.1016/j.schres.2024.06.036">https://doi.org/10.1016/j.schres.2024.06.036</a>	</li>	</td>
