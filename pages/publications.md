@@ -27,8 +27,8 @@ td {
 </style>
 
 
-<p><font size="8"><b> Publications </b></font><br>
-(reversed chronological order)<br></p>
+<p><font size="8"><b> Publications </b></font> (Reversed chronological order) <br>
+† Denotes non-peer reviewed preprints <br></p>
 
 ---
 
@@ -59,11 +59,19 @@ some other syntax to add if necessary
 		<td>	Altmetric </td>
 		</tr>	
 
+
 		<tr>
-		<td>	<li> Bloom, P. A., Pagliaccio, D., Bajwa, Z., Wool, E., Zhang, J., Bauer, C.C.C., Kyler, M., Greene, K.D., Treves, I., <fm>Morfini, F.</fm>, Durham, K., Kirshenbaum, J.S., Kim, N., Galfalvy, H., Simpson, B.H., Whitfield-Gabrieli, S., Auerbach, R.P. (2025). Impact of mindfulness-based real-time fMRI neurofeedback on self-referential processing in depressed adolescents: a dosing study.
-		<a href="https://doi.org/10.1186/s12888-023-05223-8">https://doi.org/10.1186/s12888-023-05223-8</a>	</li>	</td>
+		<td>	<li> † Zhang, J., Bauer, C.C.C., <fm>Morfini, F.</fm>,  Lee, Y., Stone, L. M. D., Awad, A. I., Okano, K., Hwang, M., Shinn, A., Niznikiewicz, M. A., Whitfield-Gabrieli, S. (2025). Real-time fMRI neurofeedback reduces default mode network and auditory cortex functional connectivity in schizophrenia.
+		<a href="https://doi.org/10.1101/2025.01.02.631107">https://doi.org/10.1101/2025.01.02.631107</a>	</li>	</td>
+		<td>	<span class="__dimensions_badge_embed__" data-doi="10.1101/2025.01.02.631107" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
+		<td>	<div data-doi="https://doi.org/10.1101/2025.01.02.631107" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
+		</tr>
+	
+		<tr>
+		<td>	<li> † Bloom, P. A., Pagliaccio, D., Bajwa, Z., Wool, E., Zhang, J., Bauer, C.C.C., Kyler, M., Greene, K.D., Treves, I., <fm>Morfini, F.</fm>, Durham, K., Kirshenbaum, J.S., Kim, N., Galfalvy, H., Simpson, B.H., Whitfield-Gabrieli, S., Auerbach, R.P. (2025). Impact of mindfulness-based real-time fMRI neurofeedback on self-referential processing in depressed adolescents: a dosing study.
+		<a href="https://doi.org/10.31234/osf.io/dshcm">https://doi.org/10.31234/osf.io/dshcm</a>	</li>	</td>
 		<td>	<span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/dshcm" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
-		<td>	<div data-pmid="37848857" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
+		<td>	<div data-doi="https://doi.org/10.31234/osf.io/dshcm" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
 	
 		<tr>	
@@ -74,7 +82,7 @@ some other syntax to add if necessary
 		</tr>		
 
 		<tr>
-		<td>	<li> Zhang, J., Bloom, P. A., Pagliaccio, D., Bauer, C.C.C., Greene, K.D., <fm>Morfini, F.</fm>, Treves, I., Durham, K., Cherner, R., Bajwa, Z., Wool, E., Kyler, M., Kim, N., Simpson, B.H., Auerbach, R.P. <sup>§</sup>, Whitfield-Gabrieli, S. <sup>§</sup> (2024). Mindfulness-based real-time fMRI neurofeedback for depressed adolescents: a randomized controlled dosing trial.
+		<td>	<li> † Zhang, J., Bloom, P. A., Pagliaccio, D., Bauer, C.C.C., Greene, K.D., <fm>Morfini, F.</fm>, Treves, I., Durham, K., Cherner, R., Bajwa, Z., Wool, E., Kyler, M., Kim, N., Simpson, B.H., Auerbach, R.P. <sup>§</sup>, Whitfield-Gabrieli, S. <sup>§</sup> (2024). Mindfulness-based real-time fMRI neurofeedback for depressed adolescents: a randomized controlled dosing trial.
 		<a href="https://doi.org/10.31234/osf.io/sj236">https://doi.org/10.31234/osf.io/sj236</a>	</li>	</td>
 		<td>	<span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/sj236" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
 		<td>	<div data-doi="https://doi.org/10.31234/osf.io/sj236" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
@@ -95,10 +103,10 @@ some other syntax to add if necessary
 		</tr>
 	
 		<tr>
-		<td>	<li> Bauer, C.C.C., Zhang, J., Raya, J., <fm>Morfini, F.</fm>, Pagliaccio, D., Yendiki, A., Auerbach, R.P., Niznikiewicz, M., A., Whitfield-Gabrieli, S. (2023). Rewiring neural circuits: meditation based neurofeedback and its neuroplastic effects on the pathological brain. AIP Conference Proceedings (Vol. 2947, No. 1).
+		<td>	<li> † Bauer, C.C.C., Zhang, J., Raya, J., <fm>Morfini, F.</fm>, Pagliaccio, D., Yendiki, A., Auerbach, R.P., Niznikiewicz, M., A., Whitfield-Gabrieli, S. (2023). Rewiring neural circuits: meditation based neurofeedback and its neuroplastic effects on the pathological brain. AIP Conference Proceedings (Vol. 2947, No. 1).
 		<a href="https://doi.org/10.1063/5.0161404">https://doi.org/10.1063/5.0161404</a>	</li>	</td>
 		<td>	<span class="__dimensions_badge_embed__" data-doi="10.1063/5.0161404" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
-		<td>	<div data-pmid="xxxxx" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
+		<td>	<div data-doi="10.1063/5.0161404" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
 	
 		<tr>
@@ -169,5 +177,3 @@ some other syntax to add if necessary
 
 </ol>
 </div>
-
-
