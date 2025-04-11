@@ -32,11 +32,10 @@ td {
 <p>† Denotes non-peer reviewed preprints <br>
 * Denotes equal authorship <br></p>
 
-
 <div id="anim">
 <ol reversed start="18">
 	<table> <!-- cellpadding="10" -->
-	<p></p>
+<!-- 	<p></p> -->
 
 <!-- 
 sample code to add one publication with citations and altmetric badges
@@ -51,7 +50,6 @@ some other syntax to add if necessary
 <sup>§</sup>
 <sup>†</sup> co-first author; <sup></sup> co-last author<br></p>
  -->
-
 
 <!-- header leave at the beginning -->
 		<tr>	
