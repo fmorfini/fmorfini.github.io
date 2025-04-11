@@ -27,11 +27,11 @@ td {
 </style>
 
 
-<p><font size="8"><b> Publications </b></font> (Reversed chronological order) <br>
-† Denotes non-peer reviewed preprints <br>
+<p><font size="8"><b> Publications </b></font> (Reversed chronological order) <br></p>
+---
+<p>† Denotes non-peer reviewed preprints <br>
 * Denotes equal authorship <br></p>
 
----
 
 <div id="anim">
 <ol reversed start="18">
