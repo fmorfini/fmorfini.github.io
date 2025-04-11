@@ -35,7 +35,6 @@ td {
 <div id="anim">
 <ol reversed start="18">
 	<table> <!-- cellpadding="10" -->
-<!-- 	<p></p> -->
 
 <!-- 
 sample code to add one publication with citations and altmetric badges
