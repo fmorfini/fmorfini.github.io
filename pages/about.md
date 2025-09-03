@@ -6,7 +6,7 @@ position: 1
 #feature-img: "assets/img/pexels/travel.jpeg"
 ---
 
-Hi, I am a postdoctoral research fellow at McLean Hospital, Harvard Medical School, working with Dr. Christian Webb.
+Hi, I am a postdoctoral research fellow at McLean Hospital, Harvard Medical School, working with Dr. [Christian Webb](https://webbslab.com/).
  
 My **research** focuses on applying multimodal neuroimaging techniques (structural and functional MRI) and machine learning to clinical and cognitive neuroscience. 
 Specifically, my work aims to better characterize depression and anxiety in adolescents and youth, improve the diagnostic process, and develop novel treatment interventions.
