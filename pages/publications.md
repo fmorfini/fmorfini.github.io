@@ -71,17 +71,9 @@ some other syntax to add if necessary
 		<td>	<div data-pmid="40886445" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
 
-		<li><li>
-		  <img src="https://img.shields.io/badge/Preprint-BioRxiv-E34234?logo=academia&logoColor=white" alt="Preprint Badge">
-		  <a href="https://doi.org/10.1101/2025.01.13.632809">
-			https://doi.org/10.1101/2025.01.13.632809
-		  </a>
-
-<!-- 
 		<tr>
-		<td>	<li><li>        † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2025.01.13.632809">https://doi.org/10.1101/2025.01.13.632809</a>	</td>
+		<td>	<li><img src="https://img.shields.io/badge/Preprint-BioRxiv-E34234?logo=academia&logoColor=white" alt="Preprint Badge"> <a href="https://doi.org/10.1101/2025.01.13.632809">https://doi.org/10.1101/2025.01.13.632809</a>	</td>
 		</tr>
- -->
 		
 		<tr>
 		<td>	<li> Zhang, J., Tusuzian, E., <fm>Morfini, F.</fm>, Bauer, C. C. C., Stone, L. M. D., Awad, A. I., Shinn, A. K., Niznikiewicz, M. A., Whitfield-Gabrieli, S. (2025). Brain structural and functional neuroimaging features are associated with improved auditory hallucinations in patients with schizophrenia after real-time fMRI neurofeedback. Depression and Anxiety, 2025(1), 2848929.
