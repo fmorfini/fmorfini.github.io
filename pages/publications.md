@@ -73,7 +73,6 @@ some other syntax to add if necessary
 
 		<tr>
 		<td>	<ul><li> † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2025.01.13.632809">https://doi.org/10.1101/2025.01.13.632809</a>
-		</tr>
 
 <!-- 
 		<tr>
@@ -207,7 +206,9 @@ some other syntax to add if necessary
 		<td>	Altmetric </td>
 		</tr>	
 	
-	</table>
+	<!-- 
+</table>
 
 </ol>
 </div>
+ -->
