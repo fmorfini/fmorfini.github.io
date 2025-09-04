@@ -72,7 +72,7 @@ some other syntax to add if necessary
 		</tr>
 
 		<tr>
-		<td>	<li> † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2025.01.13.632809">https://doi.org/10.1101/2025.01.13.632809</a>	</td>		
+		<td>	<ul><li> † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2025.01.13.632809">https://doi.org/10.1101/2025.01.13.632809</a>
 		</tr>
 
 <!-- 
