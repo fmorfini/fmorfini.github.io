@@ -65,6 +65,26 @@ some other syntax to add if necessary
 		</tr>
 
 		<tr>
+		<td>	<li> Bauer, C. C. C., Zhang, J., <fm>Morfini, F.</fm>, Hinds, O., Wighton, P., Lee, Y., Stone, L. M. D., Awad, A. I., Okano, K., Hwang, M., Hammoud, J., Nestor, P., Whitfield-Gabrieli, S., Shinn, A. K., Niznikiewicz, M. A. (2025). Real-time fMRI neurofeedback modulates auditory cortex activity and connectivity in schizophrenia patients with auditory hallucinations: A controlled study. Psychiatry Research: Neuroimaging. 353, 112050. 
+		<a href="https://doi.org/10.1016/j.pscychresns.2025.112050">https://doi.org/10.1016/j.pscychresns.2025.112050</a>	</li>	</td>
+		<td>	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.pscychresns.2025.112050" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
+		<td>	<div data-pmid="40886445" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
+		</tr>
+
+		<li>
+		  <img src="https://img.shields.io/badge/Preprint-BioRxiv-E34234?logo=academia&logoColor=white" alt="Preprint Badge">
+		  <a href="https://doi.org/10.1101/2025.01.13.632809">
+			https://doi.org/10.1101/2025.01.13.632809
+		  </a>
+		</li>
+
+<!-- 
+		<tr>
+		<td>	<li><li>        † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2025.01.13.632809">https://doi.org/10.1101/2025.01.13.632809</a>	</td>
+		</tr>
+ -->
+		
+		<tr>
 		<td>	<li> Zhang, J., Tusuzian, E., <fm>Morfini, F.</fm>, Bauer, C. C. C., Stone, L. M. D., Awad, A. I., Shinn, A. K., Niznikiewicz, M. A., Whitfield-Gabrieli, S. (2025). Brain structural and functional neuroimaging features are associated with improved auditory hallucinations in patients with schizophrenia after real-time fMRI neurofeedback. Depression and Anxiety, 2025(1), 2848929.
 		<a href="https://doi.org/10.1155/da/2848929">https://doi.org/10.1155/da/2848929</a>	</li>	</td>
 		<td>	<span class="__dimensions_badge_embed__" data-doi="10.1155/da/2848929" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
@@ -78,17 +98,6 @@ some other syntax to add if necessary
 		<td>	<div data-doi="https://doi.org/10.1101/2025.01.02.631107" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
 	
-		<tr>
-		<td>	<li> Bauer, C. C. C., Zhang, J., <fm>Morfini, F.</fm>, Hinds, O., Wighton, P., Lee, Y., Stone, L. M. D., Awad, A. I., Okano, K., Hwang, M., Hammoud, J., Nestor, P., Whitfield-Gabrieli, S., Shinn, A. K., Niznikiewicz, M. A. (2025). Real-time fMRI neurofeedback modulates auditory cortex activity and connectivity in schizophrenia patients with auditory hallucinations: A controlled study. Psychiatry Research: Neuroimaging. 353, 112050. 
-		<a href="https://doi.org/10.1016/j.pscychresns.2025.112050">https://doi.org/10.1016/j.pscychresns.2025.112050</a>	</li>	</td>
-		<td>	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.pscychresns.2025.112050" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
-		<td>	<div data-pmid="40886445" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
-		</tr>
-
-		<tr>
-		<td>	>>> † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2025.01.13.632809">https://doi.org/10.1101/2025.01.13.632809</a>	</td>
-		</tr>
-		
 		<tr>
 		<td>	<li> † Bloom, P. A., Pagliaccio, D., Bajwa, Z., Wool, E., Zhang, J., Bauer, C. C. C., Kyler, M., Greene, K. D., Treves, I., <fm>Morfini, F.</fm>, Durham, K., Kirshenbaum, J. S., Kim, N., Galfalvy, H., Simpson, B. H., Whitfield-Gabrieli, S., Auerbach, R. P. (2025). Impact of mindfulness-based real-time fMRI neurofeedback on self-referential processing in depressed adolescents: a dosing study.
 		<a href="https://doi.org/10.31234/osf.io/dshcm">https://doi.org/10.31234/osf.io/dshcm</a>	</li>	</td>
