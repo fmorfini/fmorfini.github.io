@@ -61,7 +61,7 @@ some other syntax to add if necessary
 		<td>	<li> <fm>Morfini, F.</fm>, Kucyi, A., Zhang, J., Bauer, C. C. C., Bloom, P. A., Pagliaccio, D., Hubbard, N., Rosso, I. M., Yendiki, A., Ghosh, S. S., Pizzagalli, D. A., Gabrieli, J. D., Whitfield-Gabrieli, S., Auerbach, R. P. (2025). Brain functional connectivity predicts depression and anxiety during childhood and adolescence: a connectome-based predictive modeling approach. Imaging Neuroscience, 3.
 		<a href="https://doi.org/10.1162/IMAG.a.145">https://doi.org/10.1162/IMAG.a.145</a>  </li>		</td>
 		<td>	<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1162/IMAG.a.145" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
-<!-- 		<td>	<div data-pmid='xxx' class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td> -->
+		<td>	<div data-pmid='40959708' class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
 
 		<tr>
