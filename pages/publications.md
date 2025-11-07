@@ -24,29 +24,30 @@ td {
     padding-bottom: 10px;
 }
 
-/* Mobile-specific badge resizing */
+/* Mobile-specific badge resizing and tighter spacing using % */
 @media screen and (max-width: 768px) {
     .altmetric-embed {
         transform: scale(0.6);
         transform-origin: top left; 
-        margin-right: 2px; /* reduced space between badges */
-        margin-bottom: 2px; /* optional: reduce vertical spacing */
+        margin-right: 2%; /* horizontal spacing as % of parent */
+        margin-bottom: 1%; /* vertical spacing as % of parent */
         display: inline-block;
     }
 
     .__dimensions_badge_embed__ {
         transform: scale(0.6);
         transform-origin: top left;
-		margin-right: 2px; /* reduced space between badges */
-        margin-bottom: 2px; /* optional: reduce vertical spacing */
+        margin-right: 2%; /* horizontal spacing as % of parent */
+        margin-bottom: 1%; /* vertical spacing as % of parent */
         display: inline-block;
     }
 
     td {
         font-size: 70%;
-        padding-bottom: 5px; /* reduce space below text and badges */
+        padding-bottom: 2%; /* spacing below text and badges as % */
     }
 }
+
 </style>
 
 
