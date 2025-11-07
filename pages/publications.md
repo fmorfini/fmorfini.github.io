@@ -17,7 +17,6 @@ fm {
 	font-weight: bold  
 }  
 
-
 td {
 	border: none;
 	font-size:80%;
@@ -46,6 +45,17 @@ td {
         padding: 2% 1% 1% 1%; /* reduce all padding inside table cells */
         font-size: 70%;
         vertical-align: middle;
+    }
+    /* Fix for ol numbering on mobile */
+    ol {
+        counter-reset: item; /* ensure numbering works */
+    }
+
+    li {
+        display: list-item; 
+        list-style-position: inside; 
+        list-style-type: decimal; 
+        counter-increment: item;
     }
 }
 
