@@ -4,14 +4,8 @@ layout: page
 
 <div class="intro-section">
 
-  <img 
-    src="/assets/img/Francesca_Morfini_headshot_round.png"  
-    alt="Francesca Morfini headshot"
-    class="headshot"
-  >
-  
   <div class="intro-text">
-    <span style="color:#E34234; font-size:2.5rem; font-weight:bold;">Francesca Morfini</span>
+    <span class="intro-name">Francesca Morfini</span>
     <p>
       Hi, I am Francesca! I am a postdoctoral research fellow at McLean Hospital, Harvard Medical School.
       I work with Dr.
@@ -19,6 +13,12 @@ layout: page
       (McLean Hospital) in the Treatment & Etiology of Depression in Youth Laboratory.
     </p>
   </div>
+
+  <img 
+    src="/assets/img/Francesca_Morfini_headshot_round.png"  
+    alt="Francesca Morfini headshot"
+    class="headshot"
+  >
 
 </div>
 
@@ -28,18 +28,26 @@ layout: page
     align-items: center;
     gap: 2rem;
     margin-top: 1rem;
-    flex-wrap: wrap; /* allows stacking on small screens */
+    flex-wrap: wrap; /* allows stacking on mobile */
   }
 
   .headshot {
-    width: 50%;
-    max-width: 250px;
+    width: 40%; /* bigger portion of space on web */
+    max-width: none;
     object-fit: scale-down;
     border-radius: 50%;
+    order: 2; /* ensures image is on the right */
   }
 
   .intro-text {
     flex: 1;
+    order: 1;
+  }
+
+  .intro-name {
+    color: #E34234;
+    font-size: 2.5rem;
+    font-weight: bold;
   }
 
   @media (max-width: 768px) {
@@ -50,8 +58,12 @@ layout: page
     .headshot {
       width: 150px;
       margin-bottom: 1rem;
+      order: 2;
     }
-    .intro-text span {
+    .intro-text {
+      order: 1;
+    }
+    .intro-name {
       font-size: 1.8rem;
     }
   }
