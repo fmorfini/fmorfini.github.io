@@ -49,7 +49,6 @@ td {
     /* Fix for ol numbering on mobile */
     ol {
         counter-reset: item; /* ensure numbering works */
-        padding-left: 1.5em; /* add left padding so numbers appear like bullets */
     }
 
     li {
