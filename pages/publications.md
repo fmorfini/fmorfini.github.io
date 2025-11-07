@@ -24,6 +24,25 @@ td {
     padding-bottom: 10px;
 }
 
+/* Mobile-specific badge resizing */
+@media screen and (max-width: 768px) {
+    .altmetric-embed {
+        transform: scale(0.6);
+        transform-origin: top left; 
+        margin-right: 5px;
+        display: inline-block;
+    }
+
+    .__dimensions_badge_embed__ {
+        transform: scale(0.6);
+        transform-origin: top left;
+        display: inline-block;
+    }
+
+    td {
+        font-size: 70%;
+    }
+}
 </style>
 
 
