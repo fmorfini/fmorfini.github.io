@@ -3,33 +3,40 @@ layout: page
 ---
 
 <div class="intro-section">
+  <div class="intro-text">
+    <h1 class="intro-name">Francesca Morfini</h1>
+
+    <p>
+      Hi, I am Francesca! I am a postdoctoral research fellow at McLean Hospital, Harvard Medical School.
+      I work with Dr.
+      <a href="https://webbslab.com/" target="_blank" rel="noopener noreferrer">Christian Webb</a>
+      (McLean Hospital) in the Treatment & Etiology of Depression in Youth Laboratory.
+    </p>
+  </div>
+
   <img 
     src="{{ '/assets/img/Francesca_Morfini_headshot_round.png' | relative_url }}" 
     alt="Francesca Morfini headshot"
     class="headshot"
   >
-
-  <h1 class="intro-name">Francesca Morfini</h1>
-
-  <p>
-    Hi, I am Francesca! I am a postdoctoral research fellow at McLean Hospital, Harvard Medical School. 
-    I work with Dr. 
-    <a href="https://webbslab.com/" target="_blank" rel="noopener noreferrer">Christian Webb</a> 
-    (McLean Hospital) in the Treatment & Etiology of Depression in Youth Laboratory.
-  </p>
 </div>
 
 <style>
   .intro-section {
     display: flex;
     align-items: center;
-    flex-wrap: wrap; /* allows content to stack on small screens */
-    gap: 1.5rem;
-    margin-top: 1rem;
+    justify-content: space-between;
+    gap: 2rem;
+    flex-wrap: wrap; /* allows stacking when screen gets small */
+    margin-top: 1.5rem;
+  }
+
+  .intro-text {
+    flex: 1 1 55%; /* text takes majority of width */
   }
 
   .headshot {
-    width: 180px;
+    width: 220px;
     max-width: 40%;
     border-radius: 50%;
     object-fit: cover;
@@ -37,23 +44,35 @@ layout: page
 
   .intro-name {
     color: #E34234;
-    font-size: 2.5rem;
-    margin: 0;
-    line-height: 1.2;
+    font-size: 2.8rem;
+    margin: 0 0 1rem 0;
+    line-height: 1.1;
   }
 
+  .intro-section p {
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+
+  /* 🔽 MOBILE LAYOUT */
   @media (max-width: 768px) {
     .intro-section {
-      flex-direction: column;
+      flex-direction: column-reverse; /* photo above name */
       text-align: center;
     }
+
+    .intro-text {
+      flex: 1 1 100%;
+    }
+
     .headshot {
-      width: 150px;
-      max-width: 60%;
+      width: 160px;
+      max-width: 70%;
       margin-bottom: 1rem;
     }
+
     .intro-name {
-      font-size: 1.8rem;
+      font-size: 2rem;
     }
   }
 </style>
