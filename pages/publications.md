@@ -29,9 +29,9 @@ td {
     .altmetric-embed {
         transform: scale(0.6);
         transform-origin: top left; 
-        margin-right: 2%; /* horizontal spacing as % of parent */
-        margin-bottom: 1%; /* vertical spacing as % of parent */
+        margin: 0; /* remove extra space between badges */
         display: inline-block;
+        vertical-align: middle; /* align badges with text */
     }
 
     .__dimensions_badge_embed__ {
@@ -43,8 +43,9 @@ td {
     }
 
     td {
+        padding: 2% 1% 1% 1%; /* reduce all padding inside table cells */
         font-size: 70%;
-        padding-bottom: 2%; /* spacing below text and badges as % */
+        vertical-align: middle;
     }
 }
 
