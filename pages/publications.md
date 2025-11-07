@@ -29,18 +29,22 @@ td {
     .altmetric-embed {
         transform: scale(0.6);
         transform-origin: top left; 
-        margin-right: 5px;
+        margin-right: 2px; /* reduced space between badges */
+        margin-bottom: 2px; /* optional: reduce vertical spacing */
         display: inline-block;
     }
 
     .__dimensions_badge_embed__ {
         transform: scale(0.6);
         transform-origin: top left;
+		margin-right: 2px; /* reduced space between badges */
+        margin-bottom: 2px; /* optional: reduce vertical spacing */
         display: inline-block;
     }
 
     td {
         font-size: 70%;
+        padding-bottom: 5px; /* reduce space below text and badges */
     }
 }
 </style>
