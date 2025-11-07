@@ -27,17 +27,18 @@ layout: page
     align-items: center;
     justify-content: space-between;
     gap: 2rem;
-    flex-wrap: wrap; /* allows stacking when screen gets small */
     margin-top: 1.5rem;
+    flex-wrap: nowrap; /* keeps things side by side on large screens */
   }
 
   .intro-text {
-    flex: 1 1 55%; /* text takes majority of width */
+    flex: 1 1 60%;
+    min-width: 300px;
   }
 
   .headshot {
-    width: 220px;
-    max-width: 40%;
+    width: 250px;
+    max-width: 30%;
     border-radius: 50%;
     object-fit: cover;
   }
@@ -50,19 +51,31 @@ layout: page
   }
 
   .intro-section p {
-    font-size: 1.05rem;
-    line-height: 1.6;
+    font-size: 1.1rem;
+    line-height: 1.7;
   }
 
-  /* 🔽 MOBILE LAYOUT */
-  @media (max-width: 768px) {
-    .intro-section {
-      flex-direction: column-reverse; /* photo above name */
-      text-align: center;
+  /* Medium screens (e.g. tablets, small laptops) */
+  @media (max-width: 1100px) {
+    .headshot {
+      width: 200px;
+      max-width: 35%;
     }
 
-    .intro-text {
-      flex: 1 1 100%;
+    .intro-name {
+      font-size: 2.4rem;
+    }
+
+    .intro-section {
+      gap: 1.5rem;
+    }
+  }
+
+  /* Small screens (phones, small tablets) */
+  @media (max-width: 768px) {
+    .intro-section {
+      flex-direction: column-reverse;
+      text-align: center;
     }
 
     .headshot {
@@ -73,6 +86,27 @@ layout: page
 
     .intro-name {
       font-size: 2rem;
+    }
+
+    .intro-section p {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+  }
+
+  /* Large desktop screens (wide displays) */
+  @media (min-width: 1400px) {
+    .headshot {
+      width: 300px;
+      max-width: 25%;
+    }
+
+    .intro-name {
+      font-size: 3.2rem;
+    }
+
+    .intro-section {
+      gap: 3rem;
     }
   }
 </style>
