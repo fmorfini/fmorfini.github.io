@@ -32,11 +32,11 @@ layout: page
   }
 
   .headshot {
-    width: 40%; /* bigger portion of space on web */
+    width: 40%; /* default for normal desktop */
     max-width: none;
     object-fit: scale-down;
     border-radius: 50%;
-    order: 2; /* ensures image is on the right */
+    order: 2; /* image on right for web */
   }
 
   .intro-text {
@@ -50,6 +50,7 @@ layout: page
     font-weight: bold;
   }
 
+  /* Mobile: stack with image first */
   @media (max-width: 768px) {
     .intro-section {
       flex-direction: column;
@@ -58,13 +59,23 @@ layout: page
     .headshot {
       width: 150px;
       margin-bottom: 1rem;
-      order: 2;
+      order: 1; /* swap order: image first */
     }
     .intro-text {
-      order: 1;
+      order: 2; /* text after image */
     }
     .intro-name {
       font-size: 1.8rem;
+    }
+  }
+
+  /* Larger screens */
+  @media (min-width: 1200px) {
+    .headshot {
+      width: 50%; /* bigger image on wide screens */
+    }
+    .intro-name {
+      font-size: 3rem;
     }
   }
 </style>
