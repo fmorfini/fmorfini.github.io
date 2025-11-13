@@ -41,6 +41,9 @@ matrix:
   icon: "fab fa-connectdevelop"
 medium:
   pre: "https://medium.com/@"
+orcid:
+  pre: "https://orcid.org/"
+  icon: "fab fa-orcid"
 patreon:
   pre: "https://www.patreon.com/"
 phone:
