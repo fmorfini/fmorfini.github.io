@@ -93,6 +93,13 @@ some other syntax to add if necessary
 		</tr>	
 
 		<tr>
+		<td>	Wang L., Zhou, N., Jaffe, N. M., Pidvirny, K., Tierney, A. O., Fisher, H. B., Morfini, F., Forbes, E. E., Pizzagalli, D. A., Cai, T., Webb, C. A. (2025). Multimodal Prediction of Future Depressive Symptoms in Adolescents. BMC Psychiatry. 
+		<a href="https://doi.org/10.1186/s12888-025-07665-8">https://doi.org/10.1186/s12888-025-07665-8</a>  </li>		</td>
+		<td>	<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1186/s12888-025-07665-8" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
+		<td>	<div data-pmid='41282199' class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
+		</tr>
+
+		<tr>
 		<td>	<li> <fm>Morfini, F.</fm>, Kucyi, A., Zhang, J., Bauer, C. C. C., Bloom, P. A., Pagliaccio, D., Hubbard, N., Rosso, I. M., Yendiki, A., Ghosh, S. S., Pizzagalli, D. A., Gabrieli, J. D., Whitfield-Gabrieli, S., Auerbach, R. P. (2025). Brain functional connectivity predicts depression and anxiety during childhood and adolescence: a connectome-based predictive modeling approach. Imaging Neuroscience, 3.
 		<a href="https://doi.org/10.1162/IMAG.a.145">https://doi.org/10.1162/IMAG.a.145</a>  </li>		</td>
 		<td>	<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1162/IMAG.a.145" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
