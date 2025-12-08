@@ -68,7 +68,7 @@ td {
 * Denotes equal authorship <br></p>
 
 <div id="anim">
-<ol reversed start="19">
+<ol reversed start="20">
 	<table> <!-- cellpadding="10" -->
 
 <!-- 
@@ -93,7 +93,7 @@ some other syntax to add if necessary
 		</tr>	
 
 		<tr>
-		<td>	Wang L., Zhou, N., Jaffe, N. M., Pidvirny, K., Tierney, A. O., Fisher, H. B., Morfini, F., Forbes, E. E., Pizzagalli, D. A., Cai, T., Webb, C. A. (2025). Multimodal Prediction of Future Depressive Symptoms in Adolescents. BMC Psychiatry. 
+		<td>	<li> Wang L., Zhou, N., Jaffe, N. M., Pidvirny, K., Tierney, A. O., Fisher, H. B., <fm>Morfini, F.</fm>, Forbes, E. E., Pizzagalli, D. A., Cai, T., Webb, C. A. (2025). Multimodal Prediction of Future Depressive Symptoms in Adolescents. BMC Psychiatry. 
 		<a href="https://doi.org/10.1186/s12888-025-07665-8">https://doi.org/10.1186/s12888-025-07665-8</a>  </li>		</td>
 		<td>	<span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1186/s12888-025-07665-8" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> </td>
 		<td>	<div data-pmid='41282199' class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
