@@ -8,8 +8,7 @@ position: 1
 
 Hi, I am a postdoctoral research fellow at McLean Hospital, Harvard Medical School, working with Dr. [Christian Webb](https://webbslab.com/).
  
-My **research** focuses on applying multimodal neuroimaging techniques (structural and functional MRI) and machine learning to clinical and cognitive neuroscience. 
-Specifically, my work aims to better characterize depression and anxiety in adolescents and youth, improve the diagnostic process, and develop novel treatment interventions.
+My **research** leverages machine learning and multimodal data (magnetic resonance imaging, ecological momentary assessments, passive sensing, etc.) to address questions in clinical and cognitive neuroscience. Specifically, my work aims to better characterize depression and anxiety in adolescents and youth, improve the diagnostic process, and inform the development of novel treatment interventions.
 As part of my research, I also study factors that influence the results of MRI studies.
 
 My **background** is in clinical psychology and neuroimaging. I earned my PhD in psychology from Northeastern University in 2025, working with Drs. [Susan Whitfield-Gabrieli](https://www.massgeneral.org/psychiatry/research/precision-psychiatry/team) (Massachusetts General Hospital), [Randy Auerbach](https://www.auerbachlab.com/) (Columbia University), and [Juliet Davidow](https://lbdlpsych.sites.northeastern.edu/) (Northeastern University). I hold both a Bachelor's and Master's degrees in clinical psychology and neuroscience from San Raffaele University (Milan, Italy). I am also a licensed clinical psychologist in Italy.
