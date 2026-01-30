@@ -96,7 +96,7 @@ some other syntax to add if necessary
 
 		<tr>
 		<td>	<li> Qu, Y. L., Chopra, S., Qu, S., Cocuzza, C. V., Labache, L., Bauer, C. C. C., <fm>Morfini, F.</fm>, Whitfield-Gabrieli, S., Slavich, G. M., Joormann, J., Holmes, A. J. (accepted). Life experiences of humiliation, entrapment and frontoparietal-cerebellar connectivity predict adolescent anxiety and depression symptoms. Psychological Medicine.
-		<a href="https://doi.org/10.1101/2024.10.25.620373">https://doi.org/10.1101/2024.10.25.620373</a>	</li>	</td>
+<!-- 		<a href="https://doi.org/10.1101/2024.10.25.620373">https://doi.org/10.1101/2024.10.25.620373</a>	</li>	</td> -->
 		<td>	<span class="__dimensions_badge_embed__" data-doi="10.1101/2024.10.25.620373" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span> </td>
 		<td>	<div data-doi="https://doi.org/10.1101/2024.10.25.620373" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
