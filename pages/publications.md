@@ -90,6 +90,8 @@ some other syntax to add if necessary
 		<td>		</td>
 		<td>	Citations </td>
 		<td>	Altmetric </td>
+		</tr>	
+
 
 
 		<tr>
@@ -98,9 +100,9 @@ some other syntax to add if necessary
 		<td>	<span class="__dimensions_badge_embed__" data-doi="10.1101/2024.10.25.620373" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span> </td>
 		<td>	<div data-doi="https://doi.org/10.1101/2024.10.25.620373" class='altmetric-embed' data-badge-type='donut' data-hide-less-than="0" data-hide-no-mentions="true" data-badge-popover="right" ></div>	</td>
 		</tr>
-				<tr>
-		<td>	<ul><li> † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2024.10.25.62037">https://doi.org/10.1101/2024.10.25.62037</a>
+		
 		<tr>
+		<td>	<ul><li> † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2024.10.25.62037">https://doi.org/10.1101/2024.10.25.62037</a>
 
 		<tr>
 		<td>	<li> Wang L., Zhou, N., Jaffe, N. M., Pidvirny, K., Tierney, A. O., Fisher, H. B., <fm>Morfini, F.</fm>, Forbes, E. E., Pizzagalli, D. A., Cai, T., Webb, C. A. (2025). Multimodal Prediction of Future Depressive Symptoms in Adolescents. BMC Psychiatry. 
