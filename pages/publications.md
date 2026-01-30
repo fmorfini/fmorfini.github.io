@@ -90,8 +90,6 @@ some other syntax to add if necessary
 		<td>		</td>
 		<td>	Citations </td>
 		<td>	Altmetric </td>
-		</tr>	
-
 
 
 		<tr>
