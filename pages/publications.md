@@ -102,7 +102,7 @@ some other syntax to add if necessary
 		</tr>
 		
 		<tr>
-		<td>	<ul><li> † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2024.10.25.62037">https://doi.org/10.1101/2024.10.25.62037</a>
+		<td>	<ul><li> † Previously shared as a preprint: <a href="https://doi.org/10.1101/2024.10.25.62037">https://doi.org/10.1101/2024.10.25.62037</a>
 
 		<tr>
 		<td>	<li> Wang L., Zhou, N., Jaffe, N. M., Pidvirny, K., Tierney, A. O., Fisher, H. B., <fm>Morfini, F.</fm>, Forbes, E. E., Pizzagalli, D. A., Cai, T., Webb, C. A. (<b>2025</b>). Multimodal Prediction of Future Depressive Symptoms in Adolescents. BMC Psychiatry. 
@@ -126,7 +126,7 @@ some other syntax to add if necessary
 		</tr>
 
 		<tr>
-		<td>	<ul><li> † Preprint (BioRxiv): <a href="https://doi.org/10.1101/2025.01.13.632809">https://doi.org/10.1101/2025.01.13.632809</a>
+		<td>	<ul><li> † Previously shared as a preprint: <a href="https://doi.org/10.1101/2025.01.13.632809">https://doi.org/10.1101/2025.01.13.632809</a>
 
 <!-- 
 		<tr>
