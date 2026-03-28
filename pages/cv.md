@@ -9,17 +9,17 @@ position: 4
 
 <!-- 
 <div id="anim">
-<iframe src="/assets/img/Francesca_Morfini_CV.pdf" width="100%"  height = "700px" align="right" style="border:none;">
+<iframe src="/assets/img/Morfini_Francesca_CV.pdf" width="100%"  height = "700px" align="right" style="border:none;">
 </iframe>
 </div>
  -->
 
 <div id="anim" class="pdf-container">
-  <iframe src="{{ '/assets/img/Francesca_Morfini_CV.pdf' | relative_url }}" width="100%" height="700px" style="border:none;"></iframe>
+  <iframe src="{{ '/assets/img/Morfini_Francesca_CV.pdf' | relative_url }}" width="100%" height="700px" style="border:none;"></iframe>
 </div>
 
 <p class="mobile-only">
-  <a href="{{ '/assets/img/Francesca_Morfini_CV.pdf' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/img/Morfini_Francesca_CV.pdf' | relative_url }}" target="_blank">
     View Full CV (opens in new tab)
   </a>
 </p>
